@@ -19,10 +19,10 @@ $_SCHOORBS['logging'] = array(
 	'backend' => 'mail',
 	'syslog-priority' => LOG_INFO,
 	'syslog-facility' => LOG_USER,
-	'mail-host' => 'mail.example.org',
-	'mail-username' => 'mailuser',
-	'mail-password' => 'mailpass',
-	'mail-from' => 'schoorbs@example.org',
+	'mail-host' => 'mail.gmx.de',
+	'mail-username' => 'mah',
+	'mail-password' => 'wmj+a12334',
+	'mail-from' => 'Nmk@gmx.de',
 	'mail-to' => array('recipent1@example.org'),
 	'mail-subject' => 'Schoorbs entry change'
 );
